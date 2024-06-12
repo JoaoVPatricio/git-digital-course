@@ -12,3 +12,4 @@
 * comando git diff
 * comando git branch
 * comando git checkout
+* comando git merge
