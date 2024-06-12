@@ -13,3 +13,4 @@
 * comando git branch
 * comando git checkout
 * comando git merge
+* comando git clone
