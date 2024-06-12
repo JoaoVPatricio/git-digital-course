@@ -7,6 +7,8 @@
 * comando git push
 * comando git pull
 * comando git fetch
-* comando git log
+* comando git log  | --oneline --decorate
 * comando git restore | --staged
 * comando git diff
+* comando git branch
+* comando git checkout
